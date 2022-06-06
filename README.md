@@ -1,5 +1,6 @@
 ```
 npm install
+npm audit fix
 yarn develop
 ```
 
